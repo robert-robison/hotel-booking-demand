@@ -1,6 +1,6 @@
 # hotel-booking-demand
 
-Forecasting hotel demand was a small datathon within the commercial team at my company (<elderresearch.com>). It was a challenging problem with a fun solution worth sharing. All the work was done within a 3-hour timeframe.
+Forecasting hotel demand was a small datathon within the commercial team at [Elder Research](elderresearch.com). It was a challenging problem with a fun solution worth sharing. All the work was done within a 3-hour timeframe.
 
 - [hotel-booking-demand](#hotel-booking-demand)
   - [Background](#background)
